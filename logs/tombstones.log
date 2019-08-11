@@ -1,0 +1,1 @@
+2019-08-11T18:37:51+05:30 - Vampire detected: tombstone("11-Aug-19", "Vijayan"), in file /var/www/html/tombstone/index.php:15, in function DeadCode->called, invoked by deadCodeTrigger
